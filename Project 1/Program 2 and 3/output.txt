@@ -1,0 +1,909 @@
+SystemC 2.3.3-Accellera --- Sep  5 2020 16:45:01
+        Copyright (c) 1996-2018 by all Contributors,
+        ALL RIGHTS RESERVED
+R[0] = 0
+R[1] = 39
+R[2] = -25
+R[3] = 14
+R[4] = -50
+R[5] = 70
+R[6] = 6
+R[7] = 7
+R[8] = 8
+R[9] = 0
+R[10] = 32
+R[11] = 0
+R[12] = 0
+R[13] = 0
+R[14] = 0
+R[15] = 0
+
+Fetch at 0 s
+Current Instruction: 0
+
+Decode at 0 s
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 0 s
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 0 s
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 0 s
+Current Instruction: 0
+
+Decode at 0 s
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 0 s
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 0 s
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 10 ns
+Current Instruction: 1024
+
+Decode at 10 ns
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 10 ns
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 10 ns
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 20 ns
+Current Instruction: 0
+
+Decode at 20 ns
+Opcode = 0
+Rdest = 4
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 20 ns
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 20 ns
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 30 ns
+Current Instruction: 1024
+
+Decode at 30 ns
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 30 ns
+opcode_EXE = 0
+rdest_addr_EXE = 4
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 30 ns
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 40 ns
+Current Instruction: 0
+
+Decode at 40 ns
+Opcode = 0
+Rdest = 4
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 40 ns
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 40 ns
+opcode_DM = 0
+rdest_addr_DM = 4
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 50 ns
+Current Instruction: 1024
+
+Decode at 50 ns
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 50 ns
+opcode_EXE = 0
+rdest_addr_EXE = 4
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 50 ns
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 60 ns
+Current Instruction: 338
+
+Decode at 60 ns
+Opcode = 0
+Rdest = 4
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 60 ns
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 60 ns
+opcode_DM = 0
+rdest_addr_DM = 4
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 70 ns
+Current Instruction: 339
+
+Decode at 70 ns
+Opcode = 0
+Rdest = 1
+Op Ext = 5
+Rsrc = 2
+Immediate = 82
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 70 ns
+opcode_EXE = 0
+rdest_addr_EXE = 4
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 70 ns
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 80 ns
+Current Instruction: 340
+
+Decode at 80 ns
+Opcode = 0
+Rdest = 1
+Op Ext = 5
+Rsrc = 3
+Immediate = 83
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 80 ns
+opcode_EXE = 0
+rdest_addr_EXE = 1
+op_ext_EXE = 5
+rsrc_addr_EXE = 2
+imm_value_EXE = 82
+
+Memory Access stage at 80 ns
+opcode_DM = 0
+rdest_addr_DM = 4
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 90 ns
+Current Instruction: 341
+
+Decode at 90 ns
+Opcode = 0
+Rdest = 1
+Op Ext = 5
+Rsrc = 4
+Immediate = 84
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 90 ns
+opcode_EXE = 0
+rdest_addr_EXE = 1
+op_ext_EXE = 5
+rsrc_addr_EXE = 3
+imm_value_EXE = 83
+
+Memory Access stage at 90 ns
+opcode_DM = 0
+rdest_addr_DM = 1
+op_ext_DM = 5
+rsrc_addr_DM = 2
+imm_value_DM = 82
+w_RF_DM = 1
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 100 ns
+Current Instruction: 45322
+
+Decode at 100 ns
+Opcode = 0
+Rdest = 1
+Op Ext = 5
+Rsrc = 5
+Immediate = 85
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 100 ns
+opcode_EXE = 0
+rdest_addr_EXE = 1
+op_ext_EXE = 5
+rsrc_addr_EXE = 4
+imm_value_EXE = 84
+
+Memory Access stage at 100 ns
+opcode_DM = 0
+rdest_addr_DM = 1
+op_ext_DM = 5
+rsrc_addr_DM = 3
+imm_value_DM = 83
+w_RF_DM = 1
+r_DM_DM = 0
+w_DM_DM = 0
+Written 14 into RF[1] at timestamp 105 ns
+
+Updated Register File: 
+R[0] = 0
+R[1] = 14
+R[2] = -25
+R[3] = 14
+R[4] = -50
+R[5] = 70
+R[6] = 6
+R[7] = 7
+R[8] = 8
+R[9] = 0
+R[10] = 32
+R[11] = 0
+R[12] = 0
+R[13] = 0
+R[14] = 0
+R[15] = 0
+
+
+Fetch at 110 ns
+Current Instruction: 0
+
+Decode at 110 ns
+Opcode = 11
+Rdest = 1
+Op Ext = 0
+Rsrc = 10
+Immediate = 10
+[Z, C, N, F] = [0, 0, 1, 0]
+
+Execute at 110 ns
+opcode_EXE = 0
+rdest_addr_EXE = 1
+op_ext_EXE = 5
+rsrc_addr_EXE = 5
+imm_value_EXE = 85
+
+Memory Access stage at 110 ns
+opcode_DM = 0
+rdest_addr_DM = 1
+op_ext_DM = 5
+rsrc_addr_DM = 4
+imm_value_DM = 84
+w_RF_DM = 1
+r_DM_DM = 0
+w_DM_DM = 0
+Written 53 into RF[1] at timestamp 115 ns
+
+Updated Register File: 
+R[0] = 0
+R[1] = 53
+R[2] = -25
+R[3] = 14
+R[4] = -50
+R[5] = 70
+R[6] = 6
+R[7] = 7
+R[8] = 8
+R[9] = 0
+R[10] = 32
+R[11] = 0
+R[12] = 0
+R[13] = 0
+R[14] = 0
+R[15] = 0
+
+
+Fetch at 120 ns
+Current Instruction: 1024
+
+Decode at 120 ns
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 120 ns
+opcode_EXE = 11
+rdest_addr_EXE = 1
+op_ext_EXE = 0
+rsrc_addr_EXE = 10
+imm_value_EXE = 10
+
+Memory Access stage at 120 ns
+opcode_DM = 0
+rdest_addr_DM = 1
+op_ext_DM = 5
+rsrc_addr_DM = 5
+imm_value_DM = 85
+w_RF_DM = 1
+r_DM_DM = 0
+w_DM_DM = 0
+Written -11 into RF[1] at timestamp 125 ns
+
+Updated Register File: 
+R[0] = 0
+R[1] = -11
+R[2] = -25
+R[3] = 14
+R[4] = -50
+R[5] = 70
+R[6] = 6
+R[7] = 7
+R[8] = 8
+R[9] = 0
+R[10] = 32
+R[11] = 0
+R[12] = 0
+R[13] = 0
+R[14] = 0
+R[15] = 0
+
+
+Fetch at 130 ns
+Current Instruction: 16842
+
+Decode at 130 ns
+Opcode = 0
+Rdest = 4
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 130 ns
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 130 ns
+opcode_DM = 11
+rdest_addr_DM = 1
+op_ext_DM = 0
+rsrc_addr_DM = 10
+imm_value_DM = 10
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+Written 84 into RF[1] at timestamp 135 ns
+
+Updated Register File: 
+R[0] = 0
+R[1] = 84
+R[2] = -25
+R[3] = 14
+R[4] = -50
+R[5] = 70
+R[6] = 6
+R[7] = 7
+R[8] = 8
+R[9] = 0
+R[10] = 32
+R[11] = 0
+R[12] = 0
+R[13] = 0
+R[14] = 0
+R[15] = 0
+
+
+Fetch at 140 ns
+Current Instruction: 0
+
+Decode at 140 ns
+Opcode = 4
+Rdest = 1
+Op Ext = 12
+Rsrc = 10
+Immediate = 202
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 140 ns
+opcode_EXE = 0
+rdest_addr_EXE = 4
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 140 ns
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 150 ns
+Current Instruction: 342
+
+Decode at 150 ns
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 150 ns
+opcode_EXE = 4
+rdest_addr_EXE = 1
+op_ext_EXE = 12
+rsrc_addr_EXE = 10
+imm_value_EXE = 202
+
+Memory Access stage at 150 ns
+opcode_DM = 0
+rdest_addr_DM = 4
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 160 ns
+Current Instruction: 343
+
+Decode at 160 ns
+Opcode = 0
+Rdest = 1
+Op Ext = 5
+Rsrc = 6
+Immediate = 86
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 160 ns
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 160 ns
+opcode_DM = 4
+rdest_addr_DM = 1
+op_ext_DM = 12
+rsrc_addr_DM = 10
+imm_value_DM = 202
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+Jumping to pc 16 at timestamp 160 ns
+
+Fetch at 170 ns
+Current Instruction: 344
+
+Decode at 170 ns
+Opcode = 0
+Rdest = 1
+Op Ext = 5
+Rsrc = 7
+Immediate = 87
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 170 ns
+opcode_EXE = 0
+rdest_addr_EXE = 1
+op_ext_EXE = 5
+rsrc_addr_EXE = 6
+imm_value_EXE = 86
+
+Memory Access stage at 170 ns
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 180 ns
+Current Instruction: 0
+
+Decode at 180 ns
+Opcode = 0
+Rdest = 1
+Op Ext = 5
+Rsrc = 8
+Immediate = 88
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 180 ns
+opcode_EXE = 0
+rdest_addr_EXE = 1
+op_ext_EXE = 5
+rsrc_addr_EXE = 7
+imm_value_EXE = 87
+
+Memory Access stage at 180 ns
+opcode_DM = 0
+rdest_addr_DM = 1
+op_ext_DM = 5
+rsrc_addr_DM = 6
+imm_value_DM = 86
+w_RF_DM = 1
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 190 ns
+Current Instruction: 344
+
+Decode at 190 ns
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 190 ns
+opcode_EXE = 0
+rdest_addr_EXE = 1
+op_ext_EXE = 5
+rsrc_addr_EXE = 8
+imm_value_EXE = 88
+
+Memory Access stage at 190 ns
+opcode_DM = 0
+rdest_addr_DM = 1
+op_ext_DM = 5
+rsrc_addr_DM = 7
+imm_value_DM = 87
+w_RF_DM = 1
+r_DM_DM = 0
+w_DM_DM = 0
+Written 90 into RF[1] at timestamp 195 ns
+
+Updated Register File: 
+R[0] = 0
+R[1] = 90
+R[2] = -25
+R[3] = 14
+R[4] = -50
+R[5] = 70
+R[6] = 6
+R[7] = 7
+R[8] = 8
+R[9] = 0
+R[10] = 32
+R[11] = 0
+R[12] = 0
+R[13] = 0
+R[14] = 0
+R[15] = 0
+
+
+Fetch at 200 ns
+Current Instruction: 0
+
+Decode at 200 ns
+Opcode = 0
+Rdest = 1
+Op Ext = 5
+Rsrc = 8
+Immediate = 88
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 200 ns
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 200 ns
+opcode_DM = 0
+rdest_addr_DM = 1
+op_ext_DM = 5
+rsrc_addr_DM = 8
+imm_value_DM = 88
+w_RF_DM = 1
+r_DM_DM = 0
+w_DM_DM = 0
+Written 91 into RF[1] at timestamp 205 ns
+
+Updated Register File: 
+R[0] = 0
+R[1] = 91
+R[2] = -25
+R[3] = 14
+R[4] = -50
+R[5] = 70
+R[6] = 6
+R[7] = 7
+R[8] = 8
+R[9] = 0
+R[10] = 32
+R[11] = 0
+R[12] = 0
+R[13] = 0
+R[14] = 0
+R[15] = 0
+
+
+Fetch at 210 ns
+Current Instruction: 1024
+
+Decode at 210 ns
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 210 ns
+opcode_EXE = 0
+rdest_addr_EXE = 1
+op_ext_EXE = 5
+rsrc_addr_EXE = 8
+imm_value_EXE = 88
+
+Memory Access stage at 210 ns
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+Written 92 into RF[1] at timestamp 215 ns
+
+Updated Register File: 
+R[0] = 0
+R[1] = 92
+R[2] = -25
+R[3] = 14
+R[4] = -50
+R[5] = 70
+R[6] = 6
+R[7] = 7
+R[8] = 8
+R[9] = 0
+R[10] = 32
+R[11] = 0
+R[12] = 0
+R[13] = 0
+R[14] = 0
+R[15] = 0
+
+
+Fetch at 220 ns
+Current Instruction: 0
+
+Decode at 220 ns
+Opcode = 0
+Rdest = 4
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 220 ns
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 220 ns
+opcode_DM = 0
+rdest_addr_DM = 1
+op_ext_DM = 5
+rsrc_addr_DM = 8
+imm_value_DM = 88
+w_RF_DM = 1
+r_DM_DM = 0
+w_DM_DM = 0
+
+Fetch at 230 ns
+Current Instruction: 1024
+
+Decode at 230 ns
+Opcode = 0
+Rdest = 0
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 230 ns
+opcode_EXE = 0
+rdest_addr_EXE = 4
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 230 ns
+opcode_DM = 0
+rdest_addr_DM = 0
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+Written 99 into RF[1] at timestamp 235 ns
+
+Updated Register File: 
+R[0] = 0
+R[1] = 99
+R[2] = -25
+R[3] = 14
+R[4] = -50
+R[5] = 70
+R[6] = 6
+R[7] = 7
+R[8] = 8
+R[9] = 0
+R[10] = 32
+R[11] = 0
+R[12] = 0
+R[13] = 0
+R[14] = 0
+R[15] = 0
+
+
+Fetch at 240 ns
+Current Instruction: 0
+
+Decode at 240 ns
+Opcode = 0
+Rdest = 4
+Op Ext = 0
+Rsrc = 0
+Immediate = 0
+[Z, C, N, F] = [0, 0, 0, 0]
+
+Execute at 240 ns
+opcode_EXE = 0
+rdest_addr_EXE = 0
+op_ext_EXE = 0
+rsrc_addr_EXE = 0
+imm_value_EXE = 0
+
+Memory Access stage at 240 ns
+opcode_DM = 0
+rdest_addr_DM = 4
+op_ext_DM = 0
+rsrc_addr_DM = 0
+imm_value_DM = 0
+w_RF_DM = 0
+r_DM_DM = 0
+w_DM_DM = 0
+
